@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config default="true" name="MiracleSudoku" category="opl">
+			<ref name="MiracleSudoku.mod" type="model">
+			</ref>
+			<ref name="MiracleSudoku.dat" type="data">
+			</ref>
+		</config>
+		<config default="false" name="bfdbdrfb" category="opl">
+			<ref name="Test.mod" type="model">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
